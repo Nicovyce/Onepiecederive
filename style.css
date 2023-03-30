@@ -1,0 +1,117 @@
+h1 {
+    color: red;
+    font-size: 100px;
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+   
+    
+}
+p {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 25px;
+}
+body {
+    background-color: wheat;
+}
+ol {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 25px;
+}
+div {
+    width: 400px;
+  box-shadow: 30px 10px 10px burlywood;
+    text-align: center;
+    margin: 30px 10px 10px;
+    padding: 30px auto;
+    border-radius: 25px;
+
+}
+img {
+    border-radius: 25px;
+    box-shadow: 30px 10px 10px burlywood;
+   
+    
+}
+
+.titr {
+    background-color: rgb(212, 177, 131);
+}
+.shop {
+    transition: all 100ms ease;
+   box-shadow: none;
+}
+.shop:hover {
+background-color: antiquewhite;
+transform: scale(1.1);
+}
+.button { background-color: brown;
+    margin: 100px;
+    color: white;
+    padding: 50px auto;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 25px;
+    transition: all 250ms ease;
+    
+}
+.button:hover {
+    background-color: red;
+    
+}
+.banner {
+width: 1420px;
+height: 300px;
+background-image: url(https://wallpaperaccess.com/full/103882.jpg);
+background-repeat: no-repeat;
+padding: 20px 10px;
+margin: 30px 10px 10px;
+background-position: center;
+}
+
+.banners {
+    width: 1420px;
+    height: 300px;
+    background-image: url(https://i.pinimg.com/originals/3b/a4/c3/3ba4c3ec5566aa936158f928af8e8201.jpg);
+    background-repeat: no-repeat;
+    padding: 20px 10px;
+    margin: 30px 10px 10px;
+    background-position: center;
+
+}
+#luffy {
+    width: 400px;
+    box-shadow: none;
+      text-align: center;
+      margin: 10px 500px 100px;
+      padding: 30px auto;
+      border-radius: 25px;
+      transition: all 100ms ease;
+
+}
+#luffy:hover {
+    background-color: antiquewhite;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 16px;
+    box-shadow: none;
+}
+
+
+.put {
+    box-shadow: none ;
+}
+
+.paysage {
+    width: 650px;
+}
+
+.cardss { 
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16px;
+    box-shadow: none;
+}
